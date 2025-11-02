@@ -26,11 +26,3 @@ npm start
 
 React.js | React Icons | CSS3
 
-### 📸 Views
-
-* **Desktop:** Full navigation and icons
-* **Mobile:** Compact view with limited links
-
----
-
-Would you like me to tailor this for your **Product Listing Page project** instead of just the header?
