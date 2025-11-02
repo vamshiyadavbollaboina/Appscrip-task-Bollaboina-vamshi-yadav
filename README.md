@@ -1,7 +1,3 @@
-Got it 👍 Based on your folder structure, here’s a **brief and clean README.md** tailored for your complete **Product Listing Page React project**:
-
----
-
 # 🛒 Product Listing Page – React
 
 A fully responsive **Product Listing Page** built using **React.js**. The project showcases modern UI design with reusable components like Header, Sidebar, SortBar, ProductGrid, ProductCard, and Footer.
